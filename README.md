@@ -36,7 +36,7 @@ npm run start
 
 # ScreenShots
 
-### Register and Login Page
+
 ![image](https://github.com/vagisha312/weather-application/assets/108082732/66084523-fb6d-42c1-92a5-49d8bd7653b5)
 
 
